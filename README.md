@@ -1,3 +1,2 @@
-# jwtExampleClient
-Token-based API authentication with Spring and JWT
 # jwtExampleClient.
+Token-based API authentication with Spring and JWT
