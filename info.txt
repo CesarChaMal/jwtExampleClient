@@ -1,0 +1,3 @@
+curl -D GET "http://localhost:9087/test"
+Hello Cesar!!
+
